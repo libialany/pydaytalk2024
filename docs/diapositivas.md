@@ -64,3 +64,4 @@ https://github.com/oppia/oppia/wiki/Overview-of-the-Oppia-codebase
 https://wiki.sugarlabs.org/images/d/de/Sugar_overview.pdf
 
 https://github.com/sugarlabs/sugar-toolkit-gtk3
+https://stackoverflow.com/questions/63258093/pygame-error-font-not-initialized-how-to-fix
