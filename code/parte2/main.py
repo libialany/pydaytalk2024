@@ -17,7 +17,7 @@ font = pygame.font.Font(None, 48)  # None uses default system font, 48 is size
 # codigo
 def main():
     clock = pygame.time.Clock()
-    text = "Welcome to my Text Game!"
+    text = "Welcome to my Game!"
     text_surface = font.render(text, True, WHITE)
     text_rect = text_surface.get_rect(center=(WIDTH/2, HEIGHT/2))
 
