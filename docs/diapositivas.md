@@ -27,7 +27,9 @@ El software de educación es un software informático con el propósito principa
 
 3. SugarLabs: 
 Sugar Labs es una organización voluntaria, sin fines de lucro.
-
+link my intention: https://github.com/sugarlabs/DMP/issues/6
+link issue: https://github.com/sugarlabs/DMP/issues/6
+package python sugargame: https://github.com/sugarlabs/sugargame
 ● Sistema operativo
 Sugar es una interfaz gráfica de usuario y una colección de aplicaciones de software. actividades que le da a los niños un entorno rico para el aprendizaje.
 
@@ -60,3 +62,5 @@ https://github.com/oppia/oppia/wiki/Overview-of-the-Oppia-codebase
 -----------------
 - como documentar https://help.sugarlabs.org/en/read.html#where-to-get-read
 https://wiki.sugarlabs.org/images/d/de/Sugar_overview.pdf
+
+https://github.com/sugarlabs/sugar-toolkit-gtk3

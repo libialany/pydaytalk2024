@@ -1,0 +1,11 @@
+[Activity]
+name = Ruler
+bundle_id = com.laptop.Ruler
+exec = sugar-activity3 RulerActivity.RulerActivity
+icon = activity-ruler
+activity_version = 33
+show_launcher = yes
+license = GPLv3+
+single_instance = yes
+summary = scaled images of a ruler, protractor, and a checker board
+category = science maths

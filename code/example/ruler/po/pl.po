@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-25 00:33-0400\n"
+"PO-Revision-Date: 2015-02-19 09:02+0000\n"
+"Last-Translator: Tymon <dwgipk@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1424336524.000000\n"
+
+#. TRANS: "name" option from activity.info file
+#: RulerActivity.py:151
+msgid "Ruler"
+msgstr "Linijka"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "scaled images of a ruler, protractor, and a checker board"
+msgstr "skalowane zdjęcia linijki, kątomierza i planszy do gry w warcaby"
+
+#: RulerActivity.py:157
+msgid "Grid"
+msgstr "Siatka"
+
+#: RulerActivity.py:163
+msgid "Angles"
+msgstr "Kąty"
+
+#: RulerActivity.py:169
+msgid "Checker"
+msgstr "Checker/Tablero/Damier"
+
+#: RulerActivity.py:177
+msgid "1 custom unit equals "
+msgstr "1 niestandardowa jednostka równa się "
+
+#. TRANS: mm is for Milli Meters
+#: RulerActivity.py:180
+msgid " mm."
+msgstr " mm"
+
+#: show_rulers.py:58
+msgid "Use this ruler from the outside edge of the computer."
+msgstr "Mierz tą linijką od zewnętrznej krawędzi komputera."
+
+#~ msgid "Rulers"
+#~ msgstr "Linijki"

@@ -1,0 +1,49 @@
+# Python
+code/__pycache__/
+code/*.py[cod]
+code/*$py.class
+code/*.so
+code/.Python
+code/env/
+code/build/
+code/develop-eggs/
+code/dist/
+code/downloads/
+code/eggs/
+code/.eggs/
+code/lib/
+code/lib64/
+code/parts/
+code/sdist/
+code/var/
+code/wheels/
+code/*.egg-info/
+code/.installed.cfg
+code/*.egg
+# Virtual Environment
+code/venv/
+code/ENV/
+code/.env
+# IDE specific files
+code/.idea/
+code/.vscode/
+code/*.swp
+code/*.swo
+code/.DS_Store
+# PyGame specific
+code/*.png
+code/*.jpg
+code/*.jpeg
+code/*.gif
+code/*.bmp
+code/*.wav
+code/*.mp3
+code/*.ogg
+code/*.ttf
+code/!assets/**  # This allows you to track assets in an assets folder
+# Logs and databases
+code/*.log
+code/*.sqlite
+
+# parte3
+code/parte3/__pycache__
