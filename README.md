@@ -3,8 +3,14 @@
 Python and SugarLabs
 
 # Instalacion
+caso1:
 
-`apt install sucrose`
+1. instalar boxes
+2. descargar la iso https://fedoraproject.org/spins/soas/download.
+3. seguir el worshop
+
+Caso2:
+1. `apt install sucrose`
 
 # estructura
 1. code
