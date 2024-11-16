@@ -2,6 +2,10 @@
 
 Python and SugarLabs
 
+# Instalacion
+
+`apt install sucrose`
+
 # estructura
 1. code
 parte1, parte2 : bases sin Sugar.
