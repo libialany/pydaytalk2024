@@ -2,3 +2,5 @@
 locale
 .DS_Store
 dist
+sugargame/__pycache__
+test/__pycache__
